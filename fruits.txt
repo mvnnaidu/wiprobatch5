@@ -2,3 +2,6 @@ apple
 bannan
 mango
 pineapple
+avocado
+strawberry
+blueberry
